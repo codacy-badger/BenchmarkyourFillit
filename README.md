@@ -1,5 +1,6 @@
-# BenchmarkyourFillit [![42](https://i.imgur.com/9NXfcit.jpg)](i.imgur.com/9NXfcit.jpg)[![freetime](https://i.imgur.com/8IcDLkc.png)](i.imgur.com/8IcDLkc.png)
-[![Build Status](https://travis-ci.org/Ant0wan/BenchmarkyourFillit.svg?branch=master)](https://travis-ci.org/Ant0wan/BenchmarkyourFillit) [![HitCount](http://hits.dwyl.io/Ant0wan/BenchmarkyourFillit.svg)](http://hits.dwyl.io/Ant0wan/BenchmarkyourFillit)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/3af5aee656d7488391bdb68d793c69a3)](https://app.codacy.com/app/Ant0wan/BenchmarkyourFillit?utm_source=github.com&utm_medium=referral&utm_content=Ant0wan/BenchmarkyourFillit&utm_campaign=Badge_Grade_Dashboard)
+# BenchmarkyourFillit [![42](https://i.imgur.com/9NXfcit.jpg)](i.imgur.com/9NXfcit.jpg)[![freetime](https://i.imgur.com/8IcDLkc.png)](i.imgur.com/8IcDLkc.png) 
+[![HitCount](http://hits.dwyl.io/Ant0wan/BenchmarkyourFillit.svg)](http://hits.dwyl.io/Ant0wan/BenchmarkyourFillit)
 
 
 This script has been made for benchmarking <a href="https://github.com/Ant0wan/Fillit.git" target="_blank">Fillit [a 42 project]</a>.
